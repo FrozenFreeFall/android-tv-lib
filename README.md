@@ -330,15 +330,11 @@ android-player-sdk 是一个适用于 Android 平台的影音播发器 SDK ，�
 
 # 三. TV输入法
 
-### 1.台湾注音输入法，使用注音引擎，可替换拼音或者其它的引擎.
-
-项目地址: https://gitee.com/kumei/xgimi_zhuyin_input 
-
-### 2. 原生的谷歌输入法，可单独编译版本.
+### 1. 原生的谷歌输入法，可单独编译版本.
 
 项目地址:https://gitee.com/kumei/PinyinIME_GOOGLE 
 
-### 3. 英文输入法.高仿搜狗界面.
+### 2. 英文输入法.高仿搜狗界面.
 
 项目地址:https://gitee.com/kumei/OpenInputMethod 
 
