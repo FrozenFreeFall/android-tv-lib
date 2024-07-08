@@ -15,7 +15,7 @@ android tv交流网站: www.androidtvdev.com
 
 android tv文章专题：https://www.jianshu.com/c/3f0ab61a1322
 
-已回海南乐东老家休息，可接 Android TV 相关的UI项目.
+已回海南乐东老家，有空可接 Android TV 相关的应用项目。
 
 [TOC]
 
