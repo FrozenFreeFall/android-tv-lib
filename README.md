@@ -9,12 +9,13 @@ android tv 相关的库，包括界面开发，播放器等等的收集，
 
 
 
-TV开发 QQ群1：522186932(人满) QQ群2:468357191
+TV开发 QQ群1：522186932(人满) QQ群2:468357191(已满) QQ群3:976338508
 
 android tv交流网站: www.androidtvdev.com
 
 android tv文章专题：https://www.jianshu.com/c/3f0ab61a1322
 
+已回海南乐东老家休息，可接 Android TV 相关的UI项目.
 
 [TOC]
 
